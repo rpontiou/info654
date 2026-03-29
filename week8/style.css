@@ -9,7 +9,6 @@
     background-attachment: fixed;   
     background-position: center;}
  a:link { color: rgb(49, 78, 173); text-decoration: none; }
- a:visited { color: gray; }
  a:hover { color: red; text-decoration: underline; }
  a:active { color: yellow; }
  #header,#footer,#leftnav,#centerbody {font-family:tahoma, sans-serif;}
