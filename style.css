@@ -33,7 +33,7 @@ a:link { color: rgb(49, 78, 173); text-decoration: none; }
  .left-align{text-align:left; padding-left:20px; padding-right:20px;}
  .table {
   border-collapse: separate;
-  border-spacing: 0 15px;
+  border-spacing: 15px;
   text-align:left;
   padding-left:10px; padding-right:10px;
 }
