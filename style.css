@@ -36,6 +36,7 @@ a:link { color: rgb(49, 78, 173); text-decoration: none; }
   border-spacing: 15px;
   text-align:left;
   padding-left:10px; padding-right:10px;
+  margin-left:10px; margin-right:10px
 }
  .semi-transparent-box {
     background-color: rgba(170, 206, 198, 0.9);}
